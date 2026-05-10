@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ramanathan999-hub/document-manager/issues"
   },
-  "homepage": "https://github.com/ramanathan999-hub/document-manager#readme"
+  "homepage": "https://github.com/ramanathan999-hub/document-manager#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
